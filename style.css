@@ -1,0 +1,42 @@
+
+ *{
+    margin: 0%;
+    padding: 0%;
+
+ }
+ nav {
+    background-color:black;
+
+    
+ }
+
+nav ul {
+    text-align: center;
+ 
+}
+nav ul li { 
+    display: inline-block;
+    padding: 20px;
+    color: #fff;
+    font-family: 'Times New Roman', Times, serif;
+   
+}
+nav ul li  a {
+    text-decoration: none;
+    padding: 10px;
+    margin: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.5em;
+    text-transform: uppercase;
+   
+
+}
+nav ul li a:hover { 
+   background-color: #fff;
+
+
+    }
+
+
+
+
